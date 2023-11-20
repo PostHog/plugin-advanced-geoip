@@ -1,3 +1,5 @@
+This plugin is deprecated, use IP anonymisation in project settings with geoIP app to remove IP. Use filter out plugin to remove any geo info not wanted.
+
 <img src="logo.png" alt="Advanced GeoIP logo" width="120px" />
 
 # PostHog Community App: Advanced GeoIP
